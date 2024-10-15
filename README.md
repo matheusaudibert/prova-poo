@@ -1,2 +1,2 @@
 # prova-poo
-Prova POO
+Repositório referente ao exercício avaliativo de POO.
